@@ -1,0 +1,1 @@
+run('init_crazy_ride')
